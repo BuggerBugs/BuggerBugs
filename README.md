@@ -1,10 +1,10 @@
 👋 Hi, I’m @BuggerBugs
 
-Curious observer of bugs and beyond.
+Exploring the world of bugs, one line of code at a time.
 
-Languages: C, C++, Java, Typescript, Python
+Languages: C, C++, Java, TypeScript, Python
 
-Send me an email on asodbugger@gmail.com to connect!
+Connect with me via email at asodbugger@gmail.com!
 
 <!---
 BuggerBugs/BuggerBugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
