@@ -4,7 +4,7 @@ Exploring the world of bugs, one line of code at a time.
 
 Languages: C, C++, Java, TypeScript, Python
 
-Connect with me via linkedin or my email at asodbugger@gmail.com!
+Connect with me via my LinkedIn link, or email me at asodbugger@gmail.com!
 
 <!---
 BuggerBugs/BuggerBugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
