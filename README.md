@@ -4,8 +4,7 @@ Exploring the world of bugs, one line of code at a time.
 
 Languages: C, C++, Java, TypeScript, Python
 
-Connect with me via these platforms!
-- [LinkedIn](https://www.linkedin.com/in/qi-yang-soo-b384b4228/) 
+Connect with me here!
 - Email: asodbugger@gmail.com
 
 <!---
